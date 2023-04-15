@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Cupboard
+* source:	https://sketchfab.com/3d-models/old-cupboard-309ccba7b2cb40a6bfffb89f498fc54c
+* author:	NoMoreFeelings (https://sketchfab.com/NoMoreFeelings)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Cupboard" (https://sketchfab.com/3d-models/old-cupboard-309ccba7b2cb40a6bfffb89f498fc54c) by NoMoreFeelings (https://sketchfab.com/NoMoreFeelings) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

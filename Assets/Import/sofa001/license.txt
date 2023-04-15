@@ -1,0 +1,11 @@
+Model Information:
+* title:	sofa001
+* source:	https://sketchfab.com/3d-models/sofa001-b4dd6cfceee044618f352ed13f2d80ec
+* author:	kc9075 (https://sketchfab.com/kc9075)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "sofa001" (https://sketchfab.com/3d-models/sofa001-b4dd6cfceee044618f352ed13f2d80ec) by kc9075 (https://sketchfab.com/kc9075) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

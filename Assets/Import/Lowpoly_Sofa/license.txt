@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Sofa
+* source:	https://sketchfab.com/3d-models/lowpoly-sofa-5338f2d8529c4ea1a401a8b5330ba96a
+* author:	Adam Bajgar (https://sketchfab.com/adam.bajgar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Sofa" (https://sketchfab.com/3d-models/lowpoly-sofa-5338f2d8529c4ea1a401a8b5330ba96a) by Adam Bajgar (https://sketchfab.com/adam.bajgar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

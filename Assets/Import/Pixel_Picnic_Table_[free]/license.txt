@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pixel Picnic Table [free]
+* source:	https://sketchfab.com/3d-models/pixel-picnic-table-free-a14f7166a57e45df9a10937d70c36a1d
+* author:	Hatty (https://sketchfab.com/Hatty53)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pixel Picnic Table [free]" (https://sketchfab.com/3d-models/pixel-picnic-table-free-a14f7166a57e45df9a10937d70c36a1d) by Hatty (https://sketchfab.com/Hatty53) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

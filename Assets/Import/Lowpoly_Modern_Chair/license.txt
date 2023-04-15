@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly Modern Chair
+* source:	https://sketchfab.com/3d-models/lowpoly-modern-chair-6f3b4bacab104dc8887fae99632d7807
+* author:	Adam Bajgar (https://sketchfab.com/adam.bajgar)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly Modern Chair" (https://sketchfab.com/3d-models/lowpoly-modern-chair-6f3b4bacab104dc8887fae99632d7807) by Adam Bajgar (https://sketchfab.com/adam.bajgar) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
